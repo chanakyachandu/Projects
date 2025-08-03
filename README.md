@@ -13,5 +13,3 @@ In this project, I developed an integrated Voice Agent system inspired by Window
    The Execution Agent functions as the command dispatcher and task executor. Based on the Scan Agent's interpretation, it triggers the corresponding system functions, application controls, or workflow operations. It effectively “executes” the command, managing responses and state updates, ensuring that the user's spoken instructions are carried out precisely.
 
 By integrating these three agents, I successfully built a modular and extensible voice control system that mimics the core functionalities of WSR. This project demonstrates expertise in speech processing, natural language understanding, and intelligent automation, providing a foundation for voice-enabled applications and interactive systems.
-
-If you want, I can help you tailor it further based on specific technologies or features you used!
